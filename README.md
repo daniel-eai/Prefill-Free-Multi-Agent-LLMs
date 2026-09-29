@@ -1,4 +1,4 @@
-# HeteroFold: Fast Heterogeneous Multi-Agent LLMs via Prefill-Free Cross-Family KV Cache Transfer
+# Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs
 
 HeteroFold enables prefill-free KV cache transfer across different model families, allowing heterogeneous LLM agents to reuse previously computed context without repeated receiver prefill.
 
