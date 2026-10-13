@@ -5,6 +5,9 @@ Official implementation of **Prefill-Free Cross-Family KV Cache Transfer for Het
 [![arXiv](https://img.shields.io/badge/arXiv-2609.32259-b31b1b.svg)](https://arxiv.org/abs/2609.32259)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Paper-ffd21e.svg?logo=huggingface)](https://huggingface.co/papers/2609.32259)
 
+
+<img width="100%" alt="Image" src="https://github.com/user-attachments/assets/dcb3391d-2c99-4a78-9d66-6f167f4c44d1" />
+
 <img width="100%" alt="Text-based communication, prior KV transfer, and HeteroFold" src="assets/communication.png" />
 
 ## Overview
